@@ -1,0 +1,1 @@
+### A basic method to download a pdf file using headers and PHP's read() method
